@@ -1,0 +1,15 @@
+/******************************************************************
+Theme Name: webtecker Base Theme (Rename Me!)
+Theme URI: http://www.webtecker.com
+Description: This is the base for webtecker.com using Bootstrap.
+Author: Brett Bittke
+Author URI: http://www.webtecker.com
+Version: 1.0
+Tags: flexble-width, translation-ready, microformats, rtl-language-support
+******************************************************************/
+
+@import url('css/bootstrap.min.css'); 
+body { 
+     padding-top: 60px; 
+     padding-bottom: 40px; 
+}
